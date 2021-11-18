@@ -1,3 +1,4 @@
 #!/usr/bin/python3
 str = "Holberton School"
-print("[Holberton School] * 5")
+print(str * 3)
+print[:9]
